@@ -22,10 +22,13 @@ There will be an entry fee to enter the virtual galleria. They can choose among 
 
 # ScreentShots
 
-![image](https://user-images.githubusercontent.com/53618733/161411299-a3f6474a-511c-4108-a668-33e8912ecdad.png)
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/b3be342c-ca0b-4974-8d5d-76dd47e4f447)
 
-![image](https://user-images.githubusercontent.com/53618733/161411358-aeee8af4-21a6-47b0-bd9c-ab4c4458cc8b.png)
-![WhatsApp Image 2022-04-03 at 09 58 02](https://user-images.githubusercontent.com/53618733/161411537-5af57a1c-2db1-4963-bfab-ea6962682124.jpeg)
+
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
+
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/02d0b783-477f-4a4d-9f99-ad46af8ec010)
+
 
 
 ![WhatsApp Image 2022-04-03 at 09 50 09](https://user-images.githubusercontent.com/53618733/161411315-88da11ad-d32e-43d7-ba8c-334826461ed9.jpeg)
