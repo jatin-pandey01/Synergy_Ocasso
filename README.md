@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Manyavar Gallery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<b>Live Demo: https://virtual-van-gogh.vercel.app/  </b>
 
-## Available Scripts
+Manyavar’s growth as a brand is also heavily attributed to its extensive focus on marketing and advertising that boasts of the highest advertising budget in the industry. While it started out as a wedding- wear brand, over time there has been a paradigm shift from wedding to celebrations on the whole and the new campaigns’ focus on branding the label as Celebration wear.
 
-In the project directory, you can run:
+# Tech Stack
 
-### `npm start`
+### front-end - Vanilla.js, Parcel
+### Gallery Environment - Unity3D
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# ScreentShots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/1ef86eee-d880-452d-a787-391769d9f3c8)
 
-### `npm run build`
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/e475d06c-ea54-454b-92b8-04eea3ac5d9e)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/a9a5c5d4-f08d-40dd-bd48-1353be411914)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Compile the code for development and start a local server:
 
-## Learn More
+```
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Create the build:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+npm run build
+```
