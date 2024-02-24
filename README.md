@@ -23,12 +23,12 @@ There will be an entry fee to enter the virtual galleria. They can choose among 
 # ScreentShots
 
 ![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/b3be342c-ca0b-4974-8d5d-76dd47e4f447)
-
-
-![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
 ![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/233a12a6-0825-4d08-b115-ac8eb8637283)
 
-![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/613cc257-c312-428e-ae58-63b0bd346072)
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
+
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/a9a5c5d4-f08d-40dd-bd48-1353be411914)
+
 
 
 
