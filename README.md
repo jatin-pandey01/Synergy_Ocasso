@@ -28,7 +28,8 @@ There will be an entry fee to enter the virtual galleria. They can choose among 
 ![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
 ![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/233a12a6-0825-4d08-b115-ac8eb8637283)
 
-![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/02d0b783-477f-4a4d-9f99-ad46af8ec010)
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/613cc257-c312-428e-ae58-63b0bd346072)
+
 
 
 ![image](https://user-images.githubusercontent.com/53618733/161411415-3ab571fc-493c-409b-8bf3-d2a931eb3242.png)
