@@ -13,8 +13,10 @@ Manyavar’s growth as a brand is also heavily attributed to its extensive focus
 
 # ScreentShots
 
-![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/b3be342c-ca0b-4974-8d5d-76dd47e4f447)
-![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/233a12a6-0825-4d08-b115-ac8eb8637283)
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/1ef86eee-d880-452d-a787-391769d9f3c8)
+
+![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/e475d06c-ea54-454b-92b8-04eea3ac5d9e)
+
 
 ![image](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/64de747f-1b65-4c67-9487-b0b63e2d5f98)
 
