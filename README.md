@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+<h1>Transforming Physical Billboard ADs to
+Interactive Digital AD experiences on Mobile</h1>
+<h2>Problem Title:</h2>In the evolving landscape of advertising, the challenge lies in
+seamlessly transitioning from physical billboards to digital experiences
+on mobile devices. While QR codes offer a means to connect users to
+digital content, the challenge lies in delivering a seamless and
+engaging experience that retains the essence of the original
+advertisement while adapting to the limitations and opportunities of
+mobile screens. Moreover, enabling user interaction with the
+advertisement on their mobile devices adds another layer of
+complexity to this integration.
+![Dashboard_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/ad05aa58-8bee-47db-a3e4-6ddd2812d7ff)
+![Bhavin_2_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/d3425c53-072c-4549-8b11-6c979a1ce5c8)
+![new_ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/31b9d669-1416-4de8-888b-ac6dd207ca27)
+![Sacchit_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/8adfa5d4-7365-4f08-b62d-3bc8caf7ea0a)
+![Dashboard_Ocasso_2](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/bc2884c4-795f-402b-9498-28da91c6e39d)
+![Dhruv_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/59096767-9d91-4dfd-a744-2c56a1d17bfa)
+![Dashboard_part2_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/c458593b-23e9-41a6-be8d-0e8ce026122f)
+![Bhavin_Ocasso](https://github.com/jatin-pandey01/Synergy_Ocasso/assets/93768529/8ce63027-6739-4b26-a2bb-cc7940077803)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
