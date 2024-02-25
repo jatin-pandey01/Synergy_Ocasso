@@ -1,6 +1,6 @@
 # Manyavar Gallery
 
-<b>Live Demo: https://virtual-van-gogh.vercel.app/  </b>
+
 
 Manyavar’s growth as a brand is also heavily attributed to its extensive focus on marketing and advertising that boasts of the highest advertising budget in the industry. While it started out as a wedding- wear brand, over time there has been a paradigm shift from wedding to celebrations on the whole and the new campaigns’ focus on branding the label as Celebration wear.
 
