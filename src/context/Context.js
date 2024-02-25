@@ -81,9 +81,9 @@ function NewsContextProvider(props){
                 setLoading(true);
                 setUser(user);
                 const docRef = doc(db,"jatin",user.uid);
-                const docSnap = await getDoc(docRef);
-                setUserData(docSnap.data());
-                setUserNews(docSnap.data()?.data);
+                // const docSnap = await getDoc(docRef);
+                // setUserData(docSnap.data());
+                // setUserNews(docSnap.data()?.data);
                 // console.log("User Data => ",docSnap.data());
                 setLoading(false);
             }
